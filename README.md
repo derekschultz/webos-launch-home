@@ -181,4 +181,4 @@ chmod +x /var/lib/webosbrew/init.d/30-lounge-elevate
 
 ## License
 
-MIT
+[MIT](LICENSE). The bundled wallpapers, music and app icons keep their own terms; see [docs/background-sources.md](docs/background-sources.md) for the online wallpaper sources.
